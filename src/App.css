@@ -1,0 +1,61 @@
+.axiosTableBlock{
+    background: linear-gradient(129deg, #53839d 9%, rgb(6 94 94) 73%);
+    color: #fff;
+    min-height: 100vh;
+}
+.addUser{
+    margin-bottom: 70px;
+}
+.addDataForm input{
+    padding: 10px 12px;
+    width: 100%;
+    background: #ffffff73;
+    border: 2px solid #fff;
+    margin: 4px;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.addDataForm input::placeholder{
+    color: #fff;
+}
+.addBtn{
+    padding: 12px 30px;
+    border: 2px solid #fff;
+    border-radius: 8px;
+    background: #1c213e;
+    color: #fff;
+    font-weight: 600;
+}
+.addBtn:hover{
+    box-shadow: 0px 1px 4px #fff;
+    background: #445862;
+}
+.table{
+    --bs-table-border-color: #cbcbcb;
+}
+.table .tableHeader th{
+    background: #0a3e3e;
+    color: #fff;
+}
+.table td,.table th{
+    padding: 20px 15px;
+    background: #d1f0fe;
+}
+.editBtn,.updateBtn{
+    background: #607D8B;
+    color: #fff;
+    margin-right: 8px;
+}
+.editBtn:hover,.updateBtn:hover{
+    background: #274452;
+    color: #fff;
+}
+.delBtn{
+    background: #fa2626;
+    color: #fff;
+}
+.delBtn:hover{
+    background: #ca1e00;
+    color: #fff;
+}
