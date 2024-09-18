@@ -1,3 +1,7 @@
 # CRUD operation using Axios
 
-Here i listed the book records and we can able to add, edit, and delete book records. Eecord should contain the title, author, ISBN number, and publication date.And have able to add, edit, and delete author records. Each author  contain the author's name, birth date, and a short biography. Here i use formik and yup to validate. and axios for CRUD operation.
+Created a React App that allows for CRUD operations with user data using React and Axios. fetch Data from a mock API.
+
+Mock API URL : https://jsonplaceholder.typicode.com/users
+  
+Listed the list of user detail, Here we can add new user detail , and update the existing user detail and delete the data by using Axios method
